@@ -5,4 +5,13 @@ public class TestClass {
 		System.out.println("Hello world");
 	}
 
+	public void donothing(){
+		int num = 5;
+		if(num==6){
+			
+		}
+		while(true){
+			
+		}
+	}
 }
