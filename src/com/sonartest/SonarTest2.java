@@ -6,8 +6,9 @@ public class SonarTest2 {
 		System.out.println("Hello world");
 	}
 
+	//more comments
 	// do nothing
-	public void donothing(){
+	/*public void donothing(){
 		int num = 5;
 		if(num==6){
 			
@@ -15,5 +16,5 @@ public class SonarTest2 {
 		while(true){
 			
 		}
-	}
+	}*/
 }
