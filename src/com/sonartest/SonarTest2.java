@@ -6,6 +6,7 @@ public class SonarTest2 {
 		System.out.println("Hello world");
 	}
 
+	// do nothing
 	public void donothing(){
 		int num = 5;
 		if(num==6){
