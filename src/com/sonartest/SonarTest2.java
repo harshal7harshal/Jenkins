@@ -8,7 +8,7 @@ public class SonarTest2 {
 
 	//more comments
 	// do nothing
-	public void donothing(){
+	/*public void donothing(){
 		int num = 5;
 		if(num==6){
 			
@@ -16,5 +16,5 @@ public class SonarTest2 {
 		while(true){
 			
 		}
-	}
+	}*/
 }
