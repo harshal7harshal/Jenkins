@@ -13,6 +13,10 @@ public class SonarTest2 {
 		if(num==6){
 			
 		}
+		
+	}
+	
+	void method(){
 		while(true){
 			
 		}
