@@ -20,7 +20,7 @@ public class SonarTest {
 	public void dosomethindfdfsfdsd(){
 		
 	}
-	public void adfdfdfsadsaddsf(){
+	public void adfdfdfsadsaddsfddf(){
 		
 	}
 }
