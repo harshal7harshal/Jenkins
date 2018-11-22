@@ -12,7 +12,12 @@ public class SonarTest {
 			
 		}
 		while(true){
+			// Do nothing to highlight defects
 			
 		}
+		
+	}
+	public void dosomething(){
+		
 	}
 }
