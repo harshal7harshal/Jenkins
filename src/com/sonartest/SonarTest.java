@@ -17,7 +17,7 @@ public class SonarTest {
 		}
 		
 	}
-	public void dosomething(){
+	public void dosomethin(){
 		
 	}
 }
